@@ -1,1 +1,1 @@
-web scraper using cheerio.js to scrape content via url
+A simple web scraper using cheerio.js get content via url
